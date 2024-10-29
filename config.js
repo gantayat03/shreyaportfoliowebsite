@@ -4,7 +4,7 @@ window.PorfolioConfig = {
   jobDescription: 'An aspiring ethical hacker exploring computer networks, cybersecurity, and the integration of machine learning in these domains, with a passion for content writing.',
   resume: [
     { name: 'Click me',
-      link: 'https://drive.google.com/file/d/17LLIYhdEs3s8oGF8SBtBXbz-FVNTQaR3/view?usp=sharing',
+      link: 'https://drive.google.com/file/d/1iqabYKKyufsGPlphTww9NaKc8UXZaQ_W/view?usp=sharing',
       description: 'Check out my resume for more information!'
     }
   ],
@@ -32,6 +32,18 @@ window.PorfolioConfig = {
   ],
   experiences: [
     {
+      name: 'Software Engineering fellowship',
+      link: 'https://www.linkedin.com/posts/shreya-gantayat-53b023278_headstarter-softwareengineering-computerscience-activity-7219936340476350464-b6le?utm_source=share&utm_medium=member_desktop',
+      description: 'Participated in a seven week fellowship program at Headstarter AI where I learned about managing projects and deadlines.'
+    },
+    {
+      name: 'Buildspace Graduate',
+      link: './buildspace.png',
+      description: 'Started working on my own innovative project on a 6 weeks program and graduated buildspace.'
+    }, 
+  ],
+  projects: [
+    {
       name: 'Network Intrusion Detection System',
       description: 'Developed a network based intrusion detection tool to capture and monitor network traffic and identify potential threats.'
     },
@@ -44,6 +56,11 @@ window.PorfolioConfig = {
       name: 'Patent for a Secure and Encrypted messaging platform',
       link: './PatentEncryption.jpg',
       description: 'Developed the concept for an innovative messaging platform focused on encryption and user privacy, ensuring secure communication.'
+    },
+    {
+      name: 'Symmetric Encryption and Decryption',
+      link: 'https://github.com/NiketGirdhar22/-Symmetric-Encryption-Decryption-API',
+      description: 'Implemented Data encryption and FastAPI application provides a secure API for encrypting and decrypting data using the cryptography Fernet library symmetric encryption.'
     }
   ],
   certifications: [
