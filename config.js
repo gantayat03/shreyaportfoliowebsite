@@ -4,7 +4,7 @@ window.PorfolioConfig = {
   jobDescription: 'An aspiring ethical hacker exploring computer networks, cybersecurity, and the integration of machine learning in these domains, with a passion for content writing.',
   resume: [
     { name: 'Click me',
-      link: 'https://drive.google.com/file/d/1iqabYKKyufsGPlphTww9NaKc8UXZaQ_W/view?usp=sharing',
+      link: 'https://drive.google.com/file/d/1vR1iBpaJPf_KuMgpnydt-w_y--JkmYpZ/view?usp=sharing',
       description: 'Check out my resume for more information!'
     }
   ],
