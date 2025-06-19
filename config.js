@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
-  name: 'Shreya Gantayat',
-  jobTitle: 'Cybersecurity & Machine Learning Enthusiast | Content Writer',
-  jobDescription: 'An aspiring ethical hacker exploring computer networks, cybersecurity, and the integration of machine learning in these domains, with a passion for content writing.',
+  name: 'Hey! I am Shreya',
+  jobTitle: 'SOC Analyst Trainee| Linux tinkerer | AI/ML/DL enthusiast | Content Writer',
+  jobDescription: 'A student passionate about Security, AI and R&D. Actively exploring GenAI/ RAG models and Blue Team security. Open to collaborative research in AI x Cybersecapplications.',
   resume: [
     { name: 'Click me',
       link: 'https://drive.google.com/file/d/1vR1iBpaJPf_KuMgpnydt-w_y--JkmYpZ/view?usp=sharing',
