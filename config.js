@@ -10,7 +10,7 @@ window.PorfolioConfig = {
   ],
   skills: [
     {
-      name: 'Ethical Hacking',
+      name: 'Cybersecurity',
       description: 'Learning how to find and fix vulnerabilities in systems to help organizations stay secure.'
     },
     {
