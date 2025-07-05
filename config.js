@@ -11,7 +11,7 @@ window.PorfolioConfig = {
   skills: [
     {
       name: 'Cybersecurity',
-      description: 'Learning how to find and fix vulnerabilities in systems to help organizations stay secure.'
+      description: 'Wireshark, BurpSuite, Nmap, Metasploit, Snort, Splunk'
     },
     {
       name: 'Penetration testing',
