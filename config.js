@@ -14,7 +14,7 @@ window.PorfolioConfig = {
       description: 'Wireshark, BurpSuite, Nmap, Metasploit, Snort, Splunk'
     },
     {
-      name: 'Penetration testing',
+      name: 'AI/ML',
       description: 'Exploring ways to test systems and networks by simulating real-world attacks to identify weak points.'
     },
     {
