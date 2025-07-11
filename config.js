@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'I am Shreya',
+  name: 'This is Shreya',
   jobTitle: 'SOC Analyst Trainee| Linux tinkerer | AI/ML/DL enthusiast | Content Writer',
   jobDescription: 'A student passionate about Security, AI and R&D. Actively exploring GenAI/ RAG models and Blue Team security. Open to collaborative research in AI x Cybersecapplications.',
   resume: [
